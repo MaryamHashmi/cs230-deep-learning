@@ -18,3 +18,7 @@
 		- [Initialization]()
 		- [Regularization]()
 		- [Gradient Checking]()
+- Week 6: Optimization algorithms
+	- [Optimization  Methods]()
+- Week 7: Hyperparameter tuning
+	- [Tensorflow Tutorial]()
