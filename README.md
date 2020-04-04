@@ -3,7 +3,6 @@
 
 ## Course 1: Neural Networks and Deep Learning
 
-
 - Week 2: Neural networks basics
 	- [Logistic regression with a neural network mindset](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Neural%20Nets%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)
 - Week 3: Shallow neural networks
@@ -30,13 +29,22 @@ No programming assignments
 ## Course 4: Convolutional Neural Networks
 
 - Week 1: Foundations of convolutional neural nets
-	- [Convolutional model: step by step]()
-	- [Convolutional model: application]()
+	- [Convolutional model: step by step](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Convolution_model_Step_by_Step_v2a.ipynb)
+	- [Convolutional model: application](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Convolution_model_Application_v1a.ipynb)
 - Week 2: Deep convolutional models: case studies
-	- [Residual networks]()
+	- [Residual networks](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Residual_Networks_v2a.ipynb)
 - Week 3: Object detection
-	- [Car detection with YOLO]()
+	- [Car detection with YOLO](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a.ipynb)
 - Week 4: Special applications
-	- [Art generation with neural style transfer]()
-	- [Face recognition]()
+	- [Art generation with neural style transfer](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb)
+	- [Face recognition](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Face_Recognition_v3a.ipynb)
+
+## Course 5: Sequence Models
+
+- Week 1: Recurrent neural nets
+	- [Building a recurrent neural network - step by step]()
+	- [Dinosaur Island - Charcter level language modeling]()
+	- [Jazz improvision with LSTM]()
+
+
 
