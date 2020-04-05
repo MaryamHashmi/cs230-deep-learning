@@ -51,7 +51,7 @@ No programming assignments
 
 
 | Course                               | Week One           | Week Two  | Week Three   |  Week Four   |
-| :-------------:                      |:-------------:     | :-----:   |  :-----:     |  :-----:     |  
+| -------------:                      |:-------------     | :-----   |  :-----     |  :-----     |  
 | Neural nets and deep learning      | - |  [Logistic regression with a neural network mindset](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Neural%20Nets%20and%20Deep%20Learning/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb)  | [Planar data classification with one hidden layer](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Neural%20Nets%20and%20Deep%20Learning/Planar_data_classification_with_onehidden_layer_v6c.ipynb) |  [Buliding your neural network: step by step](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Neural%20Nets%20and%20Deep%20Learning/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb) <br> [Deep neural network for image classification](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Neural%20Nets%20and%20Deep%20Learning/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb)  |
 | Improving deep neural nets      | centered      |   $12 | | |
 | Convolutional neural nets | are neat      |    $1 | - | |
