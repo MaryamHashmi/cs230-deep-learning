@@ -9,7 +9,7 @@
 | Improving deep neural nets      | [Initialization](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Improving%20Deep%20Neural%20Nets/Initialization.ipynb) <br> [Regularization](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Improving%20Deep%20Neural%20Nets/Regularization_v2a.ipynb) <br> [Gradient Checking](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Improving%20Deep%20Neural%20Nets/Gradient%2BChecking%2Bv1.ipynb)      |   [Optimization  Methods](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Improving%20Deep%20Neural%20Nets/Optimization_methods_v1b.ipynb) |[Tensorflow Tutorial](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Improving%20Deep%20Neural%20Nets/TensorFlow_Tutorial_v3b.ipynb) | - |
 | Structuring ML projects | - | - | - | - |
 | Convolutional neural nets | [Convolutional model: step by step](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Convolution_model_Step_by_Step_v2a.ipynb) <br>  [Convolutional model: application](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Convolution_model_Application_v1a.ipynb)     |  [Residual networks](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Residual_Networks_v2a.ipynb)  | [Car detection with YOLO](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Autonomous_driving_application_Car_detection_v3a.ipynb) | [Art generation with neural style transfer](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Art_Generation_with_Neural_Style_Transfer_v3a.ipynb) <br> [Face recognition](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Convolutional%20Neural%20Networks/Face_Recognition_v3a.ipynb)|
-| Sequence models | [Building a recurrent neural network - step by step](Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb) <br> [Dinosaur Island - Charcter level language modeling](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Sequence%20Models/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb) <br> [Jazz improvision with LSTM](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)| | | |
+| Sequence models | [Building a recurrent neural network - step by step](Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb) <br> [Dinosaur Island - Charcter level language modeling](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Sequence%20Models/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb) <br> [Jazz improvision with LSTM](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)| [Operations on word vectors - debiasing]() <br> [Emojify]() | | |
 
 
 ## Course 1: Neural Networks and Deep Learning
@@ -56,6 +56,9 @@ No programming assignments
 	- [Building a recurrent neural network - step by step](Building_a_Recurrent_Neural_Network_Step_by_Step_v3a.ipynb)
 	- [Dinosaur Island - Charcter level language modeling](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Sequence%20Models/Dinosaurus_Island_Character_level_language_model_final_v3a.ipynb)
 	- [Jazz improvision with LSTM](https://github.com/MaryamHashmi/cs230-deep-learning/blob/master/Sequence%20Models/Improvise_a_Jazz_Solo_with_an_LSTM_Network_v3a.ipynb)
+- Week 2: Natural language processing & word embeddings
+	- [Operations on word vectors - debiasing]()
+	- [Emojify]()
 
 
 
